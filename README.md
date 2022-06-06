@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeepsavadi41
+- 👋 Hi, I’m @sf-gh-pradeepsavadi
 - 👀 I’m interested in learning all things data
 - 🌱 I’m currently learning Snowflake
 
